@@ -1,0 +1,7 @@
+{
+  "domain": "your_domain",
+  "client_id": "your_client_id",
+  "redirect_uri": "http://localhost:8080/callback",
+  "audience": "",
+  "serverUrl": "https://localhost:5001"
+}
